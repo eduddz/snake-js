@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Arial';
+}
+
+header {
+    padding: 5rem;
+}
+
+div {
+    padding: 2rem;
+    display: flex;
+    font-weight: 900;
+    
+}
+
+p {
+    margin-left: 10px;
+}
